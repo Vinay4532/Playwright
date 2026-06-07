@@ -1,0 +1,12 @@
+{
+  "username": "test",
+  "password": "test",
+  "order": {
+    "name": "Vinay",
+    "country": "India",
+    "city": "Bangalore",
+    "card": "1234",
+    "month": "June",
+    "year": "2026"
+  }
+}
